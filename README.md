@@ -1,2 +1,3 @@
-# hosting-check-0000
-Hosting check for Lucas
+# Hosting check
+
+Live: https://hosting-check-0000.lucasbuilds.app
